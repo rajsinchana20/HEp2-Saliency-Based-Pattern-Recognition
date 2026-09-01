@@ -1,5 +1,3 @@
-# HEp2-Saliency-Based-Pattern-Recognition
-
 # HEp-2 Saliency-Based Pattern Recognition
 
 ## A Deep Learning and Explainable AI Framework for Automated HEp-2 Cell Pattern Recognition
